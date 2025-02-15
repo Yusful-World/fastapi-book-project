@@ -129,7 +129,7 @@ The API includes proper error handling for:
 - Invalid genre types
 - Malformed requests
 
-## Contributing
+HNG12 Stage 2 Task(https://github.com/hng12-devbotops/fastapi-book-project.git)
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -141,6 +141,7 @@ The API includes proper error handling for:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
+- Invited hng12-devbotops as a collaborator.
+- Deployment URL: http://13.60.25.68
 
 For support, please open an issue in the GitHub repository.
